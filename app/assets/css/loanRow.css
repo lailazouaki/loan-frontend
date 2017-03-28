@@ -1,0 +1,8 @@
+.row {
+    text-align:center;
+}
+
+.selected-row {
+    color: #8ca6fc;
+    font-weight: 900;
+}

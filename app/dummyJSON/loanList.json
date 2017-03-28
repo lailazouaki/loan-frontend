@@ -1,0 +1,52 @@
+[
+   {
+      "loanId":"1",
+      "selected":false,
+      "flag": 0,
+      "description": "My self-living home loan",
+      "amount":21000,
+      "percentage":5,
+      "duration":730,
+      "comment":null
+   },
+   {
+      "loanId":"2",
+      "selected":false,
+      "flag": 1,
+      "description": "My car loan",
+      "amount":1000,
+      "percentage":4.5,
+      "duration":365,
+      "comment":null
+   },
+   {
+      "loanId":"3",
+      "selected":false,
+      "flag": 2,
+      "description": "My investment home loan",
+      "amount":5000,
+      "percentage":8,
+      "duration":30,
+      "comment":null
+   },
+   {
+      "loanId":"4",
+      "selected":false,
+      "flag": 0,
+      "description": "My new MacBook Pro loan",
+      "amount":4550,
+      "percentage":4.25,
+      "duration":90,
+      "comment":null
+   },
+   {
+      "loanId":"5",
+      "selected":false,
+      "flag": 0,
+      "description": "My new iPhone 8 loan",
+      "amount":12300,
+      "percentage":5,
+      "duration":180,
+      "comment":null
+   }
+]

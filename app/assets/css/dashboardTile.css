@@ -1,0 +1,53 @@
+.name {
+    margin-top: 6px;
+    width: 200px;
+    font-family: Avenir;
+    font-size: 24px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    text-align: justify;
+    color: #4b74ff;
+}
+
+.description {
+    margin-left: 40px;
+    margin-bottom: 60px;
+    width: 208px;
+    height: 72px;
+    font-family: Avenir;
+    font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: justify;
+    color: #6b7c93;
+}
+
+.icon-background {
+    width: 40px;
+    height: 40px;
+    background-color: #99b0ff;
+    border-radius: 50%;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.15);
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+    margin-top: 90%;
+    margin-left: -45%;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+.tile {
+    width: 200px;
+}

@@ -1,0 +1,19 @@
+.column-title{
+    font-family: Avenir;
+    font-size: 24px;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.25;
+}
+
+.active-line{
+    background-color: #ffffff;
+}
+
+.active-line-selected{
+    /*color: #8ca6fc;*/
+}
+
+.unactive-line{
+    background-color: #ffffff;
+}

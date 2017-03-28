@@ -1,0 +1,33 @@
+.description-present {
+    margin: 0px auto;
+    border-radius: 7px;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+    height: 45px;
+    width: 150px;
+}
+
+.description-text{
+    font-family: Avenir;
+    font-size: 20px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.25;
+    text-align: left;
+    letter-spacing: normal;
+    text-transform: none;
+    position:relative;
+    display: block;
+    padding: 10px 20px;
+    vertical-align: middle;
+    color: #8ca6fc;;
+}
+
+.description-input {
+    margin: 0px auto;
+    width: 100%;
+}
+
+.description-input:focus {
+    border-color: #8ca6fc;
+}

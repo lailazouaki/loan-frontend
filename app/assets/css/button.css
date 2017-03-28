@@ -1,0 +1,25 @@
+.action-button{
+    margin: 0px auto;
+    width: 350px;
+    height: 48px;
+    background-color: #8ca6fc;
+}
+
+.action-button:hover, .action-button:focus, .action-button:active, .action-button.active{
+    background-color: #6989f9;
+}
+
+.text-button {
+    margin-top: 6px;
+    width: 200px;
+    font-family: Avenir;
+    font-size: 24px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    text-align: justify;
+    text-transform: none;
+    color: #ffffff;
+}
